@@ -1,0 +1,191 @@
+
+==========================================
+ STUDENT RESULT & GRADE MANAGEMENT SYSTEM
+==========================================
+1. Add Student
+2. Add/Update Subjects and Marks
+3. Update Student Details
+4. Delete Student
+5. Search Student
+6. View All Students
+7. Grade Calculation Module
+8. Performance Summary
+9. Exit
+==========================================
+Enter choice (1-9): 1
+
+--- Add New Student ---
+Enter Roll Number: 103
+Enter Student Name: Rohan Gupta
+Enter Class: 10-A
+Student 'Rohan Gupta' (Roll No: 103) added successfully!
+Do you want to add subjects and marks now? (y/n): y
+
+Entering marks for Rohan Gupta (Roll: 103, Class: 10-A)
+How many subjects do you want to enter/update? 3
+
+Enter name of subject 1: Math
+Enter marks for Math (0-100): 76
+
+Enter name of subject 2: Science
+Enter marks for Science (0-100): 82
+
+Enter name of subject 3: English
+Enter marks for English (0-100): 68
+
+---------------- Result Card ----------------
+Roll Number : 103
+Name        : Rohan Gupta
+Class       : 10-A
+Subjects & Marks:
+  - Math        : 76.0
+  - Science     : 82.0
+  - English     : 68.0
+Total Marks : 226.0 / 300
+Percentage  : 75.33%
+Grade       : B
+Status      : Pass
+---------------------------------------------
+Marks updated and grade calculated successfully!
+
+==========================================
+ STUDENT RESULT & GRADE MANAGEMENT SYSTEM
+==========================================
+1. Add Student
+2. Add/Update Subjects and Marks
+3. Update Student Details
+4. Delete Student
+5. Search Student
+6. View All Students
+7. Grade Calculation Module
+8. Performance Summary
+9. Exit
+==========================================
+Enter choice (1-9): 5
+
+--- Search Student ---
+1. Search by Roll Number
+2. Search by Name
+Enter search option (1/2): 2
+Enter student name or partial name: Pooja
+
+Found 1 matching student(s):
+---------------------------------------------
+Roll Number : 102
+Name        : Pooja Patel
+Class       : 10-A
+Marks:
+  Math        : 95.0
+  Science     : 94.0
+  English     : 92.0
+Total Marks : 281.0
+Percentage  : 93.67%
+Grade       : A+
+Status      : Pass
+---------------------------------------------
+
+==========================================
+ STUDENT RESULT & GRADE MANAGEMENT SYSTEM
+==========================================
+1. Add Student
+2. Add/Update Subjects and Marks
+3. Update Student Details
+4. Delete Student
+5. Search Student
+6. View All Students
+7. Grade Calculation Module
+8. Performance Summary
+9. Exit
+==========================================
+Enter choice (1-9): 7
+
+--- Grade Calculation Module ---
+Enter Roll Number to calculate/view grade: 103
+
+---------------- Result Card ----------------
+Roll Number : 103
+Name        : Rohan Gupta
+Class       : 10-A
+Subjects & Marks:
+  - Math        : 76.0
+  - Science     : 82.0
+  - English     : 68.0
+Total Marks : 226.0 / 300
+Percentage  : 75.33%
+Grade       : B
+Status      : Pass
+---------------------------------------------
+
+==========================================
+ STUDENT RESULT & GRADE MANAGEMENT SYSTEM
+==========================================
+1. Add Student
+2. Add/Update Subjects and Marks
+3. Update Student Details
+4. Delete Student
+5. Search Student
+6. View All Students
+7. Grade Calculation Module
+8. Performance Summary
+9. Exit
+==========================================
+Enter choice (1-9): 6
+
+--- All Students List ---
+==================================================================================
+Roll     Name                 Class      Total      Percentage     Grade    Status  
+----------------------------------------------------------------------------------
+101      Aman Sharma          10-A       253.0      84.33%         A        Pass    
+102      Pooja Patel          10-A       281.0      93.67%         A+       Pass    
+103      Rohan Gupta          10-A       226.0      75.33%         B        Pass    
+==================================================================================
+Total Students Registered: 3
+
+==========================================
+ STUDENT RESULT & GRADE MANAGEMENT SYSTEM
+==========================================
+1. Add Student
+2. Add/Update Subjects and Marks
+3. Update Student Details
+4. Delete Student
+5. Search Student
+6. View All Students
+7. Grade Calculation Module
+8. Performance Summary
+9. Exit
+==========================================
+Enter choice (1-9): 8
+
+--- Class Performance Summary ---
+Total Evaluated Students : 3
+Class Average Percentage : 84.44%
+Highest Scorer           : Pooja Patel (93.67%, Grade A+)
+Lowest Scorer            : Rohan Gupta (75.33%, Grade B)
+Passed Students Count    : 3
+Failed Students Count    : 0
+
+Grade Distribution:
+  Grade A+ : 1 student(s)
+  Grade A  : 1 student(s)
+  Grade B  : 1 student(s)
+  Grade C  : 0 student(s)
+  Grade D  : 0 student(s)
+  Grade F  : 0 student(s)
+---------------------------------
+
+==========================================
+ STUDENT RESULT & GRADE MANAGEMENT SYSTEM
+==========================================
+1. Add Student
+2. Add/Update Subjects and Marks
+3. Update Student Details
+4. Delete Student
+5. Search Student
+6. View All Students
+7. Grade Calculation Module
+8. Performance Summary
+9. Exit
+==========================================
+Enter choice (1-9): 9
+
+Thank you for using Student Result & Grade Management System. Goodbye!

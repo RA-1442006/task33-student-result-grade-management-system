@@ -1,0 +1,5 @@
+# Student Result & Grade Management System
+# Task 33 - Python Internship Project
+
+# No external libraries are needed.
+# This project uses built-in Python 3 standard library modules only.
