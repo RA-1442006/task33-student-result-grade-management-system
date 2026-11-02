@@ -1,0 +1,19 @@
+Task 33: Student Result & Grade Management System 🎓📊
+
+Excited to share my latest project completed under the guidance of @Veda Technology! 🚀
+
+I developed a comprehensive, menu-driven Student Result & Grade Management System in Python to streamline student record handling, marks validation, automated grading, and class performance analytics. 💻
+
+Key Highlights:
+🔹 Menu-Driven CLI: Intuitive console interface supporting complete student lifecycle operations (Add, Update, Search, Delete, and View All).
+🔹 Flexible In-Memory Storage: Cleanly structured student records utilizing Python lists and nested dictionaries for dynamic subjects and marks.
+🔹 Robust Input Validation: Enforces strict 0–100 mark bounds verification before calculating results, with defensive error handling for invalid entries.
+🔹 Automated Grading Engine: Dynamically calculates total marks, percentages, letter grades (A+ through F), and Pass/Fail status.
+🔹 Class Performance Analytics: Generates class-wide statistical summaries including class average, highest/lowest scorers, pass/fail counts, and grade distribution.
+
+🔗 Github Repo:
+https://github.com/RA-1442006/task33-student-result-grade-management-system
+
+Thank you @Veda Technology for the continuous guidance! 🙌
+
+#VedaTechnology #Python #StudentManagement #GradeManagement #Task33 #PythonProgramming #DataStructures #DeveloperJourney #Coding #Internship
